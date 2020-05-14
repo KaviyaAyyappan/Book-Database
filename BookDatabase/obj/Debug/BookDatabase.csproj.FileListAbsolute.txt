@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\BookDatabase\BookDatabase\bin\Debug\BookDatabase.exe.config
+C:\Users\kaviya\source\repos\BookDatabase\BookDatabase\bin\Debug\BookDatabase.exe
+C:\Users\kaviya\source\repos\BookDatabase\BookDatabase\bin\Debug\BookDatabase.pdb
+C:\Users\kaviya\source\repos\BookDatabase\BookDatabase\obj\Debug\BookDatabase.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\BookDatabase\BookDatabase\obj\Debug\BookDatabase.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\BookDatabase\BookDatabase\obj\Debug\BookDatabase.exe
+C:\Users\kaviya\source\repos\BookDatabase\BookDatabase\obj\Debug\BookDatabase.pdb
